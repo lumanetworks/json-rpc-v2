@@ -1,0 +1,14 @@
+{
+  "name": "jpillora/json-rpc-v2",
+  "version": "0.1.0",
+  "main": "dist/0.1/json-rpc-v2.js",
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!bower.json",
+    "!dist/0.1/json-rpc-v2.js",
+    "!dist/0.1/json-rpc-v2.min.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

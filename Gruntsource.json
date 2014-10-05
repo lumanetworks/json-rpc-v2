@@ -1,0 +1,12 @@
+{
+	"name": "json-rpc-v2",
+	"title": "JSON RPC v2.0",
+	"version": "0.1.0",
+	"homepage": "https://github.com/lumanetworks/json-rpc-v2",
+	"author": "Jaime Pillora <dev@jpillora.com>",
+	"license": "MIT",
+	"source": "~/.grunt-sources/jslib",
+	"repo": "https://github.com/jpillora/grunt-source-jslib.git",
+	"bower": true,
+	"coffee": false
+}
